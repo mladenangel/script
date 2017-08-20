@@ -1,0 +1,2 @@
+mount | column -t
+
